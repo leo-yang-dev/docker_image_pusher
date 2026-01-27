@@ -1,11 +1,12 @@
-langgenius/dify-api:1.5.1
-langgenius/dify-api:1.5.1
-langgenius/dify-web:1.5.1
+langgenius/dify-api:1.11.4
+langgenius/dify-web:1.11.4
 postgres:15-alpine
+mysql:5.7
+mysql:8
 redis:6-alpine
 langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.1.2-local
+langgenius/dify-plugin-daemon:0.5.2-local
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
-semitechnologies/weaviate:1.19.0
+semitechnologies/weaviate:1.27.27
