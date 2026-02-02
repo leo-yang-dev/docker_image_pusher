@@ -1,1 +1,1 @@
-busybox:latest
+lizhenliang/nfs-client-provisioner
