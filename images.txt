@@ -1,1 +1,2 @@
-lizhenliang/nfs-client-provisioner
+prom/node-exporter:v0.18.1
+dmilhdef/missing-container-metrics:v0.21.0
