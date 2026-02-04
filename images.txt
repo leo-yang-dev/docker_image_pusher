@@ -1,2 +1,1 @@
-prom/node-exporter:v0.18.1
-dmilhdef/missing-container-metrics:v0.21.0
+bitnamilegacy/postgresql-repmgr:15.9.0
