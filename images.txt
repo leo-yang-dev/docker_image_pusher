@@ -1,1 +1,3 @@
-bitnamilegacy/postgresql-repmgr:15.9.0
+powerjob/powerjob-mysql:latest
+powerjob/powerjob-server:latest
+powerjob/powerjob-worker-samples:latest
