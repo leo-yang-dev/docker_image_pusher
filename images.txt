@@ -1,6 +1,2 @@
 langfuse/langfuse-worker:3
 langfuse/langfuse:3
-clickhouse/clickhouse-server
-redis:7
-postgres:17
-
