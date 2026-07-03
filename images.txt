@@ -1,2 +1,5 @@
-langfuse/langfuse-worker:3
-langfuse/langfuse:3
+eclipse-temurin:21-jdk-alpine
+eclipse-temurin:21-jre-alpine
+node:22-alpine
+nginx:alpine
+python:3.11-alpine
